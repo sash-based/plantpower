@@ -1,2 +1,0 @@
-# plantpower
-PlantPower Agricultural App
